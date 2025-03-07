@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-your_build_command | tee build.log 
+echo "hello" | tee build.log 
